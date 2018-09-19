@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537376645 source:/Users/surin/SYDE121/Lab02/lab02_01.cpp
+	<iostream>
+
+1537380440 source:/Users/surin/SYDE121/Lab02/lab02_03.cpp
+	<iostream>
+	<math.h>
+
